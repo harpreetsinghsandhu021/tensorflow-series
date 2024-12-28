@@ -1,4 +1,6 @@
 .DS_Store
 */.ipynb_checkpoints/*
 */data/*
+load-and-preprocess-data/UCF101_subset/
+load-and-preprocess-data/fonts/
 basic-classification/cache/
